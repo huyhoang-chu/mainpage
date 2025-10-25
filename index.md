@@ -9,7 +9,7 @@ layout: homepage
 - I am 30% computational photonics and 70% experimental optics. My primary research topic is enhancing the collective emission effect through photonics metasurfaces.
 
 ## Research Interests
-- **Quantum Optics:** Superradiance, Supperfluorences, Decoherence.
+- **Quantum Optics:** Superradiance, Superfluorences, Decoherence.
 - **Topological Photonics:** Zero-Index Metamaterial (ZIM), Bounce State in the Continuum (BIC).
 
 ## Education
