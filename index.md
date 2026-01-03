@@ -28,7 +28,7 @@ layout: homepage
 - **[2022-2023]** R&D Engineer, Samsung HCMC Research and Development Center, Vietnam.
   
 ## News
-- **[Dec. 2025]** I will come back to Vietnam for Christmas and New Year's !
+- **[Dec. 2025]** I will come back to Vietnam for Christmas and New Year's. See you soon, Trinh !
 - **[Oct. 2025]** I will be attending 100 Years of Quantum Physics at ICISE Quy Nhon from 06-10 Oct!
 - **[Sep. 2025]** The page is online now!
 
