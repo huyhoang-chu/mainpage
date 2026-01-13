@@ -28,6 +28,7 @@ layout: homepage
 - **[2022-2023]** R&D Engineer, Samsung HCMC Research and Development Center, Vietnam.
   
 ## News
+- **[Jan. 2026]** I’m planning to speak at the ASEAN Plus Photonics Symposium 2026 at ICISE Quy Nhon from 08-11 Oct! Hope I can have some cool stuff to present this time :)))
 - **[Dec. 2025]** I will come back to Vietnam for Christmas and New Year's. See you soon, Trinh !
 - **[Oct. 2025]** I will be attending 100 Years of Quantum Physics at ICISE Quy Nhon from 06-10 Oct!
 - **[Sep. 2025]** The page is online now!
