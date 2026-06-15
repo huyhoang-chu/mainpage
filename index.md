@@ -38,6 +38,7 @@ layout: homepage
 
 - **Universal Weak-to-Strong Coupling Transition Induced by Vertical-Symmetry Breaking for Leaky Resonances in Photonic Crystal Slabs**  
   **Huy Hoang Chu**, R. Mermet-Lyaudoz, F. Dubois, S. H. Nguyen, Q. M. Bui, E. Drouard, L. Berguiga, C. Seassal, X. Letartre, P. Viktorovitch, C. Dang, Q. Le-Van, H. S. Nguyen
+  
  **arXiv** 1905.03868 (2026) [[Link]](https://arxiv.org/pdf/1905.03868).
 
 - **Nanometer-resolution White-light Scanning Interferometry for Surface Profiling of Hybrid Bonding Samples for Advanced Semiconductor Packaging**  
