@@ -2,7 +2,8 @@
 title: Huy Hoang Chu (Chu)
 position: Ph.D. Student
 affiliation: Nanyang Technological University Singapore
-email: huyhoang001 (at) e.edu.ntu.sg
+affiliation_link: https://www.ntu.edu.sg/
+email: huyhoang001 (at) e.ntu.edu.sg
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -14,6 +15,8 @@ canonical: https://huyhoang-chu.github.io/mainpage/
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=w6pSKhcAAAAJ&hl=en
 linkedin: https://www.linkedin.com/in/huy-hoang-chu/
+github_link: https://github.com/huyhoang-chu
+cv_link: ./assets/files/Huy_Hoang_Chu_CV.pdf
 facebook: https://www.facebook.com/chu.hoang.267736/
 
 # Images (e.g., your profile picture and your website's favicon) 
@@ -34,16 +37,13 @@ auto_dark_mode: false
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
 
-url: "https://huyhoangchu.github.io"
-baseurl: ""   # must be empty for user sites
+url: "https://huyhoang-chu.github.io"
+baseurl: "/mainpage"
 
 # The following files will be removed from the generated website.
 exclude:
