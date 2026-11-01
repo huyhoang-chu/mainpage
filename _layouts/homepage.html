@@ -34,6 +34,15 @@
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
 
+    <style>
+      .top-tabs { display: flex; gap: 0.25rem; margin: 0 0 1.5rem 0; padding: 0; border-bottom: 1px solid #e5e5e5; list-style: none; }
+      .top-tabs li { margin: 0; padding: 0; }
+      .top-tabs a { display: block; padding: 0.45rem 0.9rem; color: #595959; text-decoration: none; border-bottom: 2px solid transparent; margin-bottom: -1px; }
+      .top-tabs a:hover { color: #043361; }
+      .top-tabs a.active { color: #043361; font-weight: bold; border-bottom-color: #043361; }
+      @media print, screen and (max-width: 720px) { .top-tabs { margin-top: 1rem; } }
+    </style>
+
   </head>
   <body>
     <div class="wrapper">
@@ -95,6 +104,14 @@
 
       </header>
       <section>
+
+      <nav>
+        <ul class="top-tabs">
+          <li><a href="./" {% if page.tab == nil or page.tab == "home" %}class="active"{% endif %}>Main Page</a></li>
+          <li><a href="./publications.html" {% if page.tab == "publications" %}class="active"{% endif %}>Publications</a></li>
+          <li><a href="./software.html" {% if page.tab == "software" %}class="active"{% endif %}>Software</a></li>
+        </ul>
+      </nav>
 
       {{ content }}
 
