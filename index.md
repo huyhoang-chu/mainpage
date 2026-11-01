@@ -10,7 +10,7 @@ layout: homepage
 
 ## Research Interests
 - **Quantum Optics:** Superradiance, Superfluorences, Decoherence.
-- **Nanohotonics:** Zero-Index Metamaterial (ZIM), Bounce State in the Continuum (BIC).
+- **Nanophotonics:** Zero-Index Metamaterial (ZIM), Bounce State in the Continuum (BIC).
 
 ## Education
 - **[2029]** PhD, Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore.
