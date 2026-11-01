@@ -4,49 +4,43 @@ tab: home
 ---
 
 ## About Me
-- PhD student in the School of Electrical and Electronic Engineering (EEE),
-  Nanyang Technological University (NTU), Singapore, supervised by Assoc. Prof. Steve Cuong Dang (NTU) and Assoc. Prof. Hai Son Nguyen (École Centrale de Lyon, France).
-- Graduate Student Researcher at the CNRS–International NTU–Thales Research Alliance (CINTRA).
-- Previously worked with Prof. Young-Jin Kim at KAIST, South Korea, on optical metrology and nonlinear optics.
-- I am 30% computational photonics and 70% experimental optics. My primary research topic is enhancing collective emission (superradiance) with photonic metasurfaces.
+I am a PhD student in the School of Electrical and Electronic Engineering at Nanyang Technological University (NTU), Singapore, and a Graduate Student Researcher at the CNRS–International–NTU–Thales Research Alliance (CINTRA). I am supervised by Assoc. Prof. Steve Cuong Dang (NTU) and Assoc. Prof. Hai Son Nguyen (École Centrale de Lyon, France). My research focuses on enhancing collective emission (superradiance) with photonic metasurfaces, and my work is about 30% computational photonics and 70% experimental optics. Before NTU, I worked with Prof. Young-Jin Kim at KAIST, South Korea, on optical metrology and nonlinear optics.
+
+## News
+- **[Nov. 2026]** An updated version of our arXiv preprint on vertical-symmetry breaking in photonic crystal slabs is online.
+- **[Jun. 2026]** Our preprint "Unified Weak-to-Strong Coupling Transitions and Radiation Interference Induced by Vertical-Symmetry Breaking in Photonic Crystal Slabs" is on arXiv.
+- **[May 2026]** I gave a talk at the ASEAN Plus Photonics Symposium 2026, ICISE Quy Nhon, Vietnam.
+- **[Oct. 2025]** I attended 100 Years of Quantum Physics at ICISE Quy Nhon, Vietnam.
 
 ## Research Interests
-- **Quantum Optics:** Superradiance, Superfluorescence, Decoherence.
-- **Nanophotonics:** Zero-Index Metamaterials (ZIM), Bound States in the Continuum (BIC).
-- **Nonlinear Optics:** Third-Harmonic Generation (THG) in nanophotonic structures.
-- **Optical Metrology:** Interferometry, Angle-Resolved Spectroscopy.
+- **Quantum optics:** superradiance, superfluorescence, decoherence.
+- **Nanophotonics:** zero-index metamaterials, bound states in the continuum (BIC).
+- **Nonlinear optics:** third-harmonic generation (THG).
+- **Optical metrology:** interferometry, angle-resolved spectroscopy.
 
 ## Education
-- **[2029]** PhD, Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore.<br>
-  Thesis: *Superradiance Enhancement via Photonic Metasurfaces.*
-- **[2025]** M.S., Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST), South Korea.<br>
-  Thesis: *Femtosecond Laser-Induced Third-Harmonic Generation (THG) for Nonlinear Optical Characterization of Semiconductor Materials.*
+- **[2029]** PhD, Electrical and Electronic Engineering, NTU, Singapore (expected).<br>
+  *Thesis: Superradiance Enhancement via Photonic Metasurfaces.*
+- **[2025]** M.S., Mechanical Engineering, KAIST, South Korea.<br>
+  *Thesis: Femtosecond Laser-Induced Third-Harmonic Generation for Nonlinear Optical Characterization of Semiconductor Materials.*
 - **[2022]** B.E., Mechanical Engineering, Ho Chi Minh City University of Technology and Engineering (HCMUTE), Vietnam. Valedictorian.
 
-## Research Experience
-- **[2025–present]** Graduate Student Researcher, CNRS–International NTU–Thales Research Alliance (CINTRA), Singapore, with Assoc. Prof. Steve Cuong Dang and Assoc. Prof. Hai Son Nguyen.
-- **[2023–2025]** Graduate Student Researcher, Ultrafast Optics for Ultraprecision Technology Research Center, KAIST, South Korea, with Prof. Young-Jin Kim.
-
-## Industry Experience
-- **[2022–2023]** R&D Engineer, W/M R&D Lab, Samsung HCMC Research and Development Center, Vietnam.
+## Experience
+- **[2025–now]** Graduate Student Researcher, CINTRA, Singapore.
+- **[2023–2025]** Graduate Student Researcher, Ultrafast Optics for Ultraprecision Technology Research Center, KAIST, South Korea.
+- **[2022–2023]** R&D Engineer, Samsung HCMC R&D Center, Vietnam.
 
 ## Awards
-- **[2025]** NTU Research Scholarship, Nanyang Technological University Singapore.
-- **[2025]** Best Paper Award, 16th International Symposium on Measurement Technology and Intelligent Instruments (ISMTII 2025).
-- **[2023]** KAIST Scholarship, Korea Advanced Institute of Science and Technology (KAIST).
-- **[2022]** SBA Scholarship, Saigon High-tech Park Business Association, Intel Vietnam, Jabil Vietnam.
-- **[2022]** Valedictorian, Ho Chi Minh City University of Technology and Engineering (HCMUTE).
+- **[2025]** NTU Research Scholarship.
+- **[2025]** Best Paper Award, ISMTII 2025 (International Symposium on Measurement Technology and Intelligent Instruments).
+- **[2023]** KAIST Scholarship.
+- **[2022]** SBA Scholarship (Saigon High-tech Park Business Association, Intel Vietnam, Jabil Vietnam).
+- **[2022]** Valedictorian, HCMUTE.
 
 ## Service
 - **[2024–2025]** Student Leader, Mechanical Engineering International Student Organization (MEISO), KAIST.
 
 ## Skills
-- **Experimental:** experimental and ultrafast optics, interferometry, angle-resolved spectroscopy, AFM, white-light interferometry, confocal laser scanning microscopy, focused ion beam (FIB) nanofabrication.
-- **Computational:** COMSOL Multiphysics, Ansys Lumerical, Tidy3D, Lightwave Explorer, MATLAB, Python.
-- **Languages:** Vietnamese (native), English (IELTS Academic 7.0), Korean (basic).
-
-## News
-- **[Nov. 2026]** A new version of our arXiv preprint "Unified Weak-to-Strong Coupling Transitions and Radiation Interference Induced by Vertical-Symmetry Breaking in Photonic Crystal Slabs" is online.
-- **[Jun. 2026]** Our paper on weak-to-strong coupling transitions induced by vertical-symmetry breaking in photonic crystal slabs has been posted on arXiv.
-- **[May 2026]** I gave a talk at the ASEAN Plus Photonics Symposium 2026, ICISE Quy Nhon, Vietnam.
-- **[Oct. 2025]** I attended 100 Years of Quantum Physics at ICISE Quy Nhon, Vietnam (06–10 Oct).
+- **Experimental:** ultrafast and nonlinear optics, interferometry, angle-resolved spectroscopy, AFM, confocal microscopy, FIB nanofabrication.
+- **Computational:** COMSOL, Lumerical, Tidy3D, Lightwave Explorer, MATLAB, Python.
+- **Languages:** Vietnamese (native), English (fluent), Korean (basic).
