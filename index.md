@@ -7,6 +7,7 @@ tab: home
 - PhD student in the School of Electrical and Electronic Engineering (EEE),
   Nanyang Technological University (NTU), Singapore, supervised by Assoc. Prof. Steve Cuong Dang (NTU) and Assoc. Prof. Hai Son Nguyen (École Centrale de Lyon, France).
 - Graduate Student Researcher at the CNRS–International NTU–Thales Research Alliance (CINTRA).
+- Previously worked with Prof. Young-Jin Kim at KAIST, South Korea, on optical metrology and nonlinear optics.
 - I am 30% computational photonics and 70% experimental optics. My primary research topic is enhancing collective emission (superradiance) with photonic metasurfaces.
 
 ## Research Interests
@@ -23,14 +24,11 @@ tab: home
 - **[2022]** B.E., Mechanical Engineering, Ho Chi Minh City University of Technology and Engineering (HCMUTE), Vietnam. Valedictorian.
 
 ## Research Experience
-- **[2025–present]** Graduate Student Researcher, CNRS–International NTU–Thales Research Alliance (CINTRA), Singapore.<br>
-  Collective emission and nonlinear optics in zero-index and BIC photonic-crystal metasurfaces; design (FDTD/FEM), fabrication and angle-resolved optical characterization.
-- **[2023–2025]** Graduate Student Researcher, Ultrafast Optics for Ultraprecision Technology Research Center, KAIST, South Korea.<br>
-  Femtosecond-laser THG for nonlinear characterization of semiconductor surfaces; frequency-comb-referenced multi-wavelength interferometry for high-speed 3D measurement of micro-bumps; white-light scanning interferometry for hybrid-bonding samples; ultrathin metal–dielectric nanophotonic cavities for biosensing.
+- **[2025–present]** Graduate Student Researcher, CNRS–International NTU–Thales Research Alliance (CINTRA), Singapore, with Assoc. Prof. Steve Cuong Dang and Assoc. Prof. Hai Son Nguyen.
+- **[2023–2025]** Graduate Student Researcher, Ultrafast Optics for Ultraprecision Technology Research Center, KAIST, South Korea, with Prof. Young-Jin Kim.
 
 ## Industry Experience
-- **[2022–2023]** R&D Engineer, W/M R&D Lab, Samsung HCMC Research and Development Center, Vietnam.<br>
-  New product development for washing machines, from initial design to mass production.
+- **[2022–2023]** R&D Engineer, W/M R&D Lab, Samsung HCMC Research and Development Center, Vietnam.
 
 ## Awards
 - **[2025]** NTU Research Scholarship, Nanyang Technological University Singapore.
