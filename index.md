@@ -26,6 +26,7 @@ I am a PhD student in the School of Electrical and Electronic Engineering at Nan
 - **[2022]** B.E., Mechanical Engineering, Ho Chi Minh City University of Technology and Engineering (HCMUTE), Vietnam. Valedictorian.
 
 ## Experience
+- **[2026–now]** Attachment Student, Institute of Materials Research and Engineering (IMRE), A\*STAR, Singapore.
 - **[2025–now]** Graduate Student Researcher, CINTRA, Singapore.
 - **[2023–2025]** Graduate Student Researcher, Ultrafast Optics for Ultraprecision Technology Research Center, KAIST, South Korea.
 - **[2022–2023]** R&D Engineer, Samsung HCMC R&D Center, Vietnam.
